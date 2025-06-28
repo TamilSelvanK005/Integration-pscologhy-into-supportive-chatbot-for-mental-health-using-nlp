@@ -1,0 +1,10 @@
+numpy
+pandas
+seaborn
+neattext
+plotly
+scikit-learn
+joblib
+cd C:\Users\91994\OneDrive\Desktop\Project\Project\code\code
+venv\Scripts\activate  # For Windows
+streamlit run app.py
